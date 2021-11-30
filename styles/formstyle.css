@@ -1,0 +1,47 @@
+
+body{
+    background-color: #FFDEE9;
+    background-image: linear-gradient(0deg, #FFDEE9 0%, #B5FFFC 100%);
+    background-repeat: no-repeat;
+}
+
+/* Columnas del Formulario y Tabla de contenido */
+
+.columnaForm{
+
+    background-color: #fff7f6;
+text-align: center;
+position: relative;
+top: 30px;
+right: 180px;
+width: 600px;
+height: 900px;
+border-radius: 150px;
+
+}
+
+.table{
+
+text-align: center;
+position: relative;
+top: 50px;
+
+}
+
+.titulo1{
+    position: relative;
+    bottom: 30px;
+}
+
+
+.TablaContenido{
+    background-color: #fff7f6;
+    position: absolute;
+    top: 80px;
+    left: 750px;
+    width: 900px;
+    height: 700px;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 150px;
+}

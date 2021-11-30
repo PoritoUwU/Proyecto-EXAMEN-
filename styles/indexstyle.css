@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap');
+
+body{
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+/* titulo */
+
+.titulo img{
+    position: absolute;
+    top: 22%;
+    left: 38%;
+    width: 80px;
+    padding-top: 0px;
+}
+
+.titulo{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    height: 35%;
+    background: #5DADE2;
+    color: #ECF0F1;
+}
+
+.titulo2{
+    position: absolute;
+    left: -11%;
+    color: #154360;
+}
+
+.titulo h1{
+    text-align: center;
+    font-size: 60px;
+    padding-top: 70px;
+}
+
+.titulo2 h1{
+    text-align: center;
+    font-size: 60px;
+    padding-top: 70px;
+}
+
+/* subtitulo */
+
+.subtitulo{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    color: #ECF0F1;
+    
+}
+
+/* barra de navegacion */
+
+.navegacion{
+    background: #17202A;
+    position: absolute;
+    top: 35%;
+    left: 0%;
+    height: 8%;
+    padding-top: 20px;
+}
+
+/* texto */
+
+.texto{
+    background: #CB4335;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80%;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 25px;
+}
+
+/* botones */
+
+.card{
+    position: absolute;
+    top: 60%;
+}
+
+.card-body h5{
+    font-size: 35px;
+}
+
+.img1{
+    position: absolute;
+    width: 30px;
+    left: 1%;
+    top: 10%;
+}
+
+.img2{
+    position: absolute;
+    width: 30px;
+    left: 8%;
+    top: 10%;
+}
+
+.img3{
+    position: absolute;
+    width: 30px;
+    left: 25%;
+    top: 10%;
+}
+
+/* nombre JavaScript */
+
+.minombre{
+    background: #E5E7E9;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 25px;
+}
